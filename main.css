@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 text-align: center;
 background-color: darksalmon;
@@ -5,4 +6,13 @@ padding: 20px;
 color:crimson;
 font-size: xx-large;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+=======
+body {
+text-align: center;
+background-color: darksalmon;
+padding: 20px;
+color:crimson;
+font-size: xx-large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+>>>>>>> 7d5c8597f7a89550ccecf8afa69ec40693c25d4c
 }
